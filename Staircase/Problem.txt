@@ -1,0 +1,14 @@
+There exist a staircase that takes N steps to reach the top
+
+Given N steps and a set of possible steps to be taken at a time, how many
+unique ways are there to traverse the staircase?
+
+Example:
+_
+ |_
+   |_
+     |_
+N = 3; Set of possible actions {1,3};
+Return 2
+Note: you can not take more steps than there is steps possible
+
